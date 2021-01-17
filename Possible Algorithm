@@ -1,2 +1,17 @@
-Possible Algorithm 
-This looks like something we might want. I need to look more into it (https://scikit-learn.org/stable/auto_examples/calibration/plot_calibration_curve.html#sphx-glr-auto-examples-calibration-plot-calibration-curve-py) 
+Possible Algorithm/References
+
+
+
+
+This looks like something we might want. I need to look more into it (https://scikit-learn.org/stable/modules/gaussian_process.html#gaussian-process) 
+
+
+
+
+
+References: 
+
+https://finance.yahoo.com/quote/AAPL/history/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABlaUSkbM4KF9Sidt1kFNh7HkBrV9WG11HL2ZEg1D_-DKljuWByAsYNTrZXNBz_79l8reTuvDg2sVlixHMFgZ6gE9IxaHUdNfvqT_nTMbNjIkt79CrTvtr-RAcgPZU704tifnsVakPFy25a-Tr6MoEZAQo1FjXnLgNWrjZEsu1QH
+
+Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
+
